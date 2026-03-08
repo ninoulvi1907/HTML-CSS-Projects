@@ -47,6 +47,7 @@ The project is live and can be viewed here: [HTML & CSS Mini Projects Website](h
 | **ScrollReveal.js** | Scroll-based animations        |
 | **Vercel**          | Deployment                     |
 | **Git & GitHub**    | Version control                |
+| **Favicon by Freepik** | Icon by Freepik |
 
 ---
 
@@ -54,7 +55,8 @@ The project is live and can be viewed here: [HTML & CSS Mini Projects Website](h
 
 Each project includes:  
 
-📸 **Image Preview** | 📜 **Code Link** | 🔗 **Live Demo**  
+| 📸 Image Preview | 📜 Code Link | 🔗 Live Demo |
+|------------------|-------------|--------------|
 
 ---
 
@@ -154,6 +156,7 @@ To use these projects locally, follow these steps:
 ```bash
 git clone https://github.com/TonyStark-19/HTML-CSS-Projects.git
 ```
+---
 
 2️⃣ **Open a project folder and launch the `.html` file in your browser.**
 
